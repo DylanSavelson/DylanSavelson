@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **getting my DEC in Computer Science**
 
-<div>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=DylanSavelson&show_icons=true&locale=en&theme=chartreuse-dark&width=400" alt="dylansavelson"/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DylanSavelson&langs_count=12&theme=chartreuse-dark" alt="dylansavelson" />
+<div align-center>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=DylanSavelson&show_icons=true&locale=en&theme=chartreuse-dark&width=400" alt="dylansavelson"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DylanSavelson&langs_count=12&theme=chartreuse-dark" alt="dylansavelson" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
